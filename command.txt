@@ -1,0 +1,19 @@
+
+
+git init
+git add 'filename' 
+
+git commit -m 'msg'
+
+
+git status
+git diff 'filename'
+
+版本回退
+git log  版本的id
+git log --pretty=oneline
+git reset --hard head^  上个版本
+git reset --hard 8657   版本名称
+
+git reflog  所有命令
+
